@@ -1,0 +1,7 @@
+{
+  "name": "护士站 - 专业医疗护理服务",
+  "description": "提供专业护士上门打针、换药、采血等一站式居家护理服务，让医疗更便捷，让关爱更近。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
